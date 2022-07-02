@@ -3,8 +3,8 @@
 **Python, FastAPI, Swagger, PostgreSQL, Async SQLAlchemy**
 
 ## Dependencies
-* Docker
-* Docker-compose
+* **Docker**: you must install it in your host; 
+* **Docker-compose**: you will use this. Se it bellow.
 
 ## How to run
 
@@ -36,5 +36,5 @@ You can access the apicriticas, test the features and view the documentaion abou
 localhost:8080/docs
 ```
 
-*This project is **in progress...**
+*This project is **in progress...* **
 
