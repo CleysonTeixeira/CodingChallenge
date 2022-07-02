@@ -4,7 +4,7 @@
 
 ## Dependencies
 * **Docker**: you must install it in your host; 
-* **Docker-compose**: you will use this. Se it bellow.
+* **Docker-compose**: you will use this. See it bellow.
 
 ## How to run
 
