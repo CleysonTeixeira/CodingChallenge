@@ -36,5 +36,5 @@ You can access the apicriticas, test the features and view the documentaion abou
 localhost:8080/docs
 ```
 
-*This project is **in progress...** *
+_This project is **in progress...**_
 
