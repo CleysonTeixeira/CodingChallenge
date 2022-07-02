@@ -1,6 +1,6 @@
 ﻿# CodingChallenge - Let's Code & Itaú
  
-**FastAPI, PostgreSQL, Async SQLAlchemy, Pony/Orm**
+**Python, FastAPI, Swagger, PostgreSQL, Async SQLAlchemy**
 
 ## Dependencies
 * Docker
@@ -12,7 +12,7 @@ Start **apicriticas**, **postgres** database and **pgadmin**
 ```shell
 $ docker-compose up -d --build
 ```
-# Connect postgree with service:
+# Connect postgree to the server:
 * Access pgadmin:
 ```shell
 localhost:5050
