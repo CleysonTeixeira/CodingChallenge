@@ -21,17 +21,20 @@ password: admin
 ```
 * In Quick Links, click on Add New Server button;
 * Put any name;
-* In Connection, insert 
+
+In Connection, insert:
 ```shell
 Hostname/address: postgresql
 Port: 5432
 Username/Password: admin
 ```
-and click to save.
+And click to save.
 
-#API Críticas (apicriticas):
+# API Críticas (apicriticas):
 You can access the apicriticas, test the features and view the documentaion about this projet in your browser as follows:
 ```shell
 localhost:8080/docs
 ```
+
+*This project is **in progress...**
 
